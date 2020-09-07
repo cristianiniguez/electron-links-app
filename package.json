@@ -1,0 +1,15 @@
+{
+  "name": "electronjs-links",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./app/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "cristianiniguez <felizpc1@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^10.1.1"
+  }
+}
